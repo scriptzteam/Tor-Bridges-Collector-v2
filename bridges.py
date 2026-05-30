@@ -311,7 +311,7 @@ def update_readme(stats):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
     readme_content = f"""# Tor Bridges Collector v2
 
-This repository automatically collects, validates, and archives Tor bridges. A GitHub Action runs every 1 minute to fetch new bridges from the official Tor Project.
+This repository automatically collects, validates, and archives Tor bridges. A GitHub Action runs every 5 minutes to fetch new bridges from the official Tor Project.
 
 ## Important Notes on IPv6 & WebTunnel
 
