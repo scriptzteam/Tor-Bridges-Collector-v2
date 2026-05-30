@@ -2,7 +2,7 @@ name: Update Tor Bridges
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '* * * * *'
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
