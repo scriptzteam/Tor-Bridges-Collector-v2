@@ -32,7 +32,7 @@ MAX_TEST_PER_TYPE = 500
 
 IS_GITHUB = os.getenv('GITHUB_ACTIONS') == 'true'
 
-BRIDGE_DIR = "bridge"
+BRIDGE_DIR = "bridges"
 HISTORY_FILE = os.path.join(BRIDGE_DIR, "bridge_history.json")
 
 if not os.path.exists(BRIDGE_DIR):
