@@ -22,7 +22,7 @@ TARGETS = [
 ]
 
 RECENT_HOURS = 72
-HISTORY_RETENTION_DAYS = 30
+HISTORY_RETENTION_DAYS = 1337
 REPO_URL = "https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main"
 MAX_WORKERS = 50
 CONNECTION_TIMEOUT = 8
@@ -311,7 +311,7 @@ def update_readme(stats):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
     readme_content = f"""# Tor Bridges Collector v2
 
-This repository automatically collects, validates, and archives Tor bridges. A GitHub Action runs every 1 hours to fetch new bridges from the official Tor Project.
+This repository automatically collects, validates, and archives Tor bridges. A GitHub Action runs every 1 minute to fetch new bridges from the official Tor Project.
 
 ## Important Notes on IPv6 & WebTunnel
 
