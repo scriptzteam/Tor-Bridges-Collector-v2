@@ -1,2 +1,2 @@
-webtunnel [2001:db8:4b07:feeb:5140:7bc5:498:7ef0]:443 1DCAC79A588BBA559925BCFE8C0984F576D42983 url=https://stop.rechts.jetzt/0T836FGJx31XeLrdIFMDsqb7 ver=0.0.3
+webtunnel [2001:db8:8c88:1b17:d7ae:cb68:f28e:e31c]:443 C115DAC2FE991CA25DDD43D7D4D398FEA9AA4C01 url=https://foglab.net/t9crLwo4LzFDWHdwcGf9gFrk ver=0.0.5
 webtunnel [2001:db8:cd2d:9f63:180b:1857:cf43:6fd0]:443 FD3942670AB4ADED23A52FB34B9BADDA63D8B62C url=https://webtunnel.buhhenbaldence.com:8443/MqyJQRbWuJW0teiWH02Q3p7J ver=0.0.5
