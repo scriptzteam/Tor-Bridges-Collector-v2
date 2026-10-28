@@ -1,2 +1,2 @@
 webtunnel [2001:db8:2444:7905:816d:62a4:9184:e1b2]:443 5158AFC892367D7E33A80759289BBB03C4B05AFE url=https://magicgreenforest.de/itwouldbeawfuliftheearthexploded_itssobeautiful ver=0.0.5
-webtunnel [2001:db8:d3e0:e4e:ea8c:f13c:4b74:6c15]:443 ECE165E6510C15D4EA814D32B17D6A2E4A56938A url=https://cdn-46.triplebit.dev/beaXo6cho1eil2ai ver=0.0.2
+webtunnel [2001:db8:2ce3:75bd:2da:f69f:d97a:7874]:443 CFB5DD5A5CC4AAB0435C1C5B27D46C0E2AB54C6E url=https://sexgrueselbox.ch/Tha8Iequ4Goo9ku ver=0.0.7
