@@ -1,2 +1,2 @@
-webtunnel [2001:db8:2444:7905:816d:62a4:9184:e1b2]:443 5158AFC892367D7E33A80759289BBB03C4B05AFE url=https://magicgreenforest.de/itwouldbeawfuliftheearthexploded_itssobeautiful ver=0.0.5
-webtunnel [2001:db8:2ce3:75bd:2da:f69f:d97a:7874]:443 CFB5DD5A5CC4AAB0435C1C5B27D46C0E2AB54C6E url=https://sexgrueselbox.ch/Tha8Iequ4Goo9ku ver=0.0.7
+webtunnel [2001:db8:4e0:fc0e:c381:ed8c:7ddf:3433]:443 7F8A03A9D34FAF642D9480CA506C5701989C8EAC url=https://bridge.hxflife.xyz/07a6bf67ce2030e0582dcbce9b2f5c9c ver=0.0.6
+webtunnel [2001:db8:e40f:2e7c:eaa0:a693:c904:6780]:443 63BC6E53914453BF8C4355082EC907E72E68B7C4 url=https://anoni.net/sgs/lol ver=0.0.5
