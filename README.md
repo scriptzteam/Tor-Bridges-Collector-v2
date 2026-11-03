@@ -15,9 +15,9 @@ These bridges from the archive have passed a TCP connectivity test (3 retries, 1
 
 | Transport | IPv4 (Tested) | Count | 
 | :--- | :--- | :--- |
-| **obfs4** | [obfs4_tested.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/obfs4_tested.txt) | **218** |
-| **WebTunnel** | [webtunnel_tested.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/webtunnel_tested.txt) | **137** |
-| **Vanilla** | [vanilla_tested.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/vanilla_tested.txt) | **58** |
+| **obfs4** | [obfs4_tested.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/obfs4_tested.txt) | **219** |
+| **WebTunnel** | [webtunnel_tested.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/webtunnel_tested.txt) | **135** |
+| **Vanilla** | [vanilla_tested.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/vanilla_tested.txt) | **57** |
 
 ### Fresh Bridges (Last 72 Hours)
 Bridges discovered within the last 3 days.
@@ -33,9 +33,9 @@ History of all collected bridges.
 
 | Transport | IPv4 | Count | IPv6 | Count |
 | :--- | :--- | :--- | :--- | :--- |
-| **obfs4** | [obfs4.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/obfs4.txt) | **473** | [obfs4_ipv6.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/obfs4_ipv6.txt) | **220** |
+| **obfs4** | [obfs4.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/obfs4.txt) | **474** | [obfs4_ipv6.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/obfs4_ipv6.txt) | **220** |
 | **WebTunnel** | [webtunnel.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/webtunnel.txt) | **182** | [webtunnel_ipv6.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/webtunnel_ipv6.txt) | **182** |
-| **Vanilla** | [vanilla.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/vanilla.txt) | **153** | [vanilla_ipv6.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/vanilla_ipv6.txt) | **55** |
+| **Vanilla** | [vanilla.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/vanilla.txt) | **154** | [vanilla_ipv6.txt](https://raw.githubusercontent.com/scriptzteam/Tor-Bridges-Collector-v2/refs/heads/main/bridges/vanilla_ipv6.txt) | **56** |
 
 ## 🔥 Keep This Project Going!
 
