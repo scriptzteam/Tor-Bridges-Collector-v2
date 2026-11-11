@@ -1,2 +1,2 @@
-webtunnel [2001:db8:365b:caab:1be4:d672:e78e:c09a]:443 5C4499F49EF591BB28F86DC63E48846F8E610764 url=https://mstdn.party/ou8MiapiZahngai6 ver=0.0.2
-webtunnel [2001:db8:4bf5:5825:626a:b253:3a97:7231]:443 4FA98FE9568D850B675CB828B9E84DE2E2B3B45C url=https://tor.kwe-private.net/E45hEt4K3GQCChZ4B7jfrQ2b ver=0.0.4
+webtunnel [2001:db8:ad13:e588:6629:afd2:cc58:6af5]:443 B51FD3150E208A600D00BCA5963B0EF5C867574F url=https://rot.ronaak.eu:443/iUFRXvAp3E3MHDiJ8453BaaM ver=0.0.2
+webtunnel [2001:db8:c148:803:abb6:673d:91e6:4961]:443 380E64D54178F6C91DDF487357E8114E16F2EDD8 url=https://uganda-hikes.com/bbe8ed2be2f9da8e1b4041615da56fb2 ver=0.0.5
